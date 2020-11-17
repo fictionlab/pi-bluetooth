@@ -1,3 +1,10 @@
+pi-bluetooth (0.1.15ubuntu1) bionic; urgency=medium
+
+  * Changed bluez-firmware dependency to linux-firmware-raspi2
+  * Remove raspberrypi-sys-mods dependency 
+
+ -- Błażej Sowa <blazej@turtlerover.com>  Tue, 17 Nov 2020 18:07:58 +0000
+
 pi-bluetooth (0.1.15) buster; urgency=medium
 
   [ Phil Elwell ]
